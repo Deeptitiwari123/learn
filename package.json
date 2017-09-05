@@ -1,0 +1,29 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "url": "git+https://github.com/Deeptitiwari123/learn.git"
+  },
+  "author": "learn",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-ssh-deploy": "^0.4.1"
+  },
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeptitiwari123/learn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deeptitiwari123/learn/issues"
+  },
+  "homepage": "https://github.com/Deeptitiwari123/learn#readme"
+}
